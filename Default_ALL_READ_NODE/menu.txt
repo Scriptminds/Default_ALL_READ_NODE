@@ -1,0 +1,4 @@
+#################################################################
+#OPTIMIZATION-DEFAULT
+
+Merge2=nuke.knobDefault('Merge2.bbox','B')
